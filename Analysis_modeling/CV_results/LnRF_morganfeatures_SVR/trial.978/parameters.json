@@ -1,0 +1,17 @@
+{
+    "desc": "morganfeatures_1024_3",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 1233.7469101266795,
+    "kernel": "sigmoid",
+    "coef0": 2.6857188515367234,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

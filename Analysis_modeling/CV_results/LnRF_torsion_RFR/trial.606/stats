@@ -1,0 +1,7 @@
+stat R2 RMSE MAE
+Exp_LnRF.consensus 0.826 0.353 0.291
+Exp_LnRF.predicted.repeat5 0.799 0.380 0.310
+Exp_LnRF.predicted.repeat4 0.790 0.388 0.316
+Exp_LnRF.predicted.repeat3 0.758 0.417 0.344
+Exp_LnRF.predicted.repeat2 0.820 0.359 0.285
+Exp_LnRF.predicted.repeat1 0.812 0.366 0.288

@@ -1,0 +1,17 @@
+{
+    "desc": "avalon_1024",
+    "scaling": "scaled",
+    "method": "SVR",
+    "C": 7841.799422265885,
+    "kernel": "sigmoid",
+    "coef0": -1.105397692714345,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "desc": "chyline_2_7",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 6815.713841228222,
+    "kernel": "linear",
+    "coef0": 6.513497801591425,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "desc": "atompairs_1024",
+    "scaling": "scaled",
+    "method": "SVR",
+    "C": 51942.68795972839,
+    "kernel": "poly",
+    "coef0": -0.7159495768334498,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 2000,
+    "earlystop": [
+        0,
+        1
+    ]
+}

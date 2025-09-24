@@ -1,0 +1,18 @@
+{
+    "desc": "morganfeatures_1024_2",
+    "scaling": "scaled",
+    "method": "RFR",
+    "max_depth": 9,
+    "max_features": null,
+    "max_samples": 0.8,
+    "n_estimators": 50,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

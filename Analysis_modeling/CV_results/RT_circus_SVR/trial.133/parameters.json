@@ -1,0 +1,17 @@
+{
+    "desc": "circus_0_3",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 598889.5525642955,
+    "kernel": "sigmoid",
+    "coef0": -5.678028073592005,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

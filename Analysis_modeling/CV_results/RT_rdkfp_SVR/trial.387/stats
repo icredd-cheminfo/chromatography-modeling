@@ -1,0 +1,7 @@
+stat R2 RMSE MAE
+Exp_RT.consensus 0.759 70.723 45.609
+Exp_RT.predicted.repeat5 0.663 83.533 49.519
+Exp_RT.predicted.repeat4 0.672 82.445 51.951
+Exp_RT.predicted.repeat3 0.669 82.891 58.053
+Exp_RT.predicted.repeat2 0.633 87.205 55.440
+Exp_RT.predicted.repeat1 0.670 82.660 55.575

@@ -1,0 +1,18 @@
+{
+    "desc": "rdkfplinear_1024_8",
+    "scaling": "original",
+    "method": "RFR",
+    "max_depth": 6,
+    "max_features": null,
+    "max_samples": 0.8,
+    "n_estimators": 100,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

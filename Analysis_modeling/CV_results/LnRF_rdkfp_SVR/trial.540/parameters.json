@@ -1,0 +1,17 @@
+{
+    "desc": "rdkfp_1024_4",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 0.3564984689564205,
+    "kernel": "poly",
+    "coef0": -4.643019159301756,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}

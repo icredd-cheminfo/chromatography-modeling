@@ -1,0 +1,17 @@
+{
+    "desc": "torsion_1024",
+    "scaling": "original",
+    "method": "SVR",
+    "C": 7955127.767617293,
+    "kernel": "sigmoid",
+    "coef0": -4.49878762726157,
+    "ntrials": 1000,
+    "cv_splits": 5,
+    "cv_repeats": 5,
+    "jobs": 30,
+    "timeout": 600,
+    "earlystop": [
+        0,
+        1
+    ]
+}
